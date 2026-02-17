@@ -7,8 +7,6 @@
 
 - 📫 How to reach me ** kesharwanitanya57@gmail.com**
 
-- 📄 Know about my experiences [Link of my Resume](https://drive.google.com/file/d/1O6XUK6uI51W88IM-ZoDVjDasAzAgJvNL/view?usp=drivesdk)
-
 - My leetcode id : **tanyakesharwani_09**
 
 <p align="left" >
