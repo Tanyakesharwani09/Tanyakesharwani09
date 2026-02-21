@@ -7,8 +7,6 @@
 
 - 📫 How to reach me ** kesharwanitanya57@gmail.com**
 
-- My leetcode id : **tanyakesharwani_09**
-
 <p align="left" >
 </p>
 
