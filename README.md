@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structure , Web Development**
 
-- 👨‍💻 All of my projects are available at [github.com/tanyakesharwani09]([github.com/Tanyakesharwani09])
+- 👨‍💻 All of my projects are available at [github.com/tanyakesharwani09]([https://github.com/Tanyakesharwani09])
 
 - 📫 How to reach me ** kesharwanitanya57@gmail.com**
 
